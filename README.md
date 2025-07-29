@@ -18,5 +18,3 @@ This is a front-end clone of the Amazon shopping website built for learning and 
 # Technologies Used
 1. HTML
 2. CSS
-
-
