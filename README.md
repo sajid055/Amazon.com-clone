@@ -19,6 +19,4 @@ This is a front-end clone of the Amazon shopping website built for learning and 
 1. HTML
 2. CSS
 
-<!-- # Live
 
-click here!  https://sajid055.github.io/Amazon-clone -->
