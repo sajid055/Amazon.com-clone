@@ -1,5 +1,5 @@
 
-# amazon-clone
+# Amazon-clone
 
 # Description 
 This is a front-end clone of the Amazon shopping website built for learning and practicing HTML, CSS. The design is responsive and replicates the Amazon homepage layout.
@@ -19,4 +19,4 @@ This is a front-end clone of the Amazon shopping website built for learning and 
 1. HTML
 2. CSS
 
-# Live demo
+
