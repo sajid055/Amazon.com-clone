@@ -20,3 +20,8 @@ This is a front-end clone of the Amazon shopping website built for learning and 
 2. CSS
 
 
+# live
+
+project-amazon-clonene.netlify.app
+
+
