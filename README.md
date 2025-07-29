@@ -22,6 +22,5 @@ This is a front-end clone of the Amazon shopping website built for learning and 
 
 # live
 
-project-amazon-clonene.netlify.app
-
+Click here! https://amazon-spen-less-smile-more.netlify.app
 
