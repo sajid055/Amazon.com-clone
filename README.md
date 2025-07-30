@@ -12,7 +12,7 @@ This is a front-end clone of the Amazon shopping website built for learning and 
  <li>Interactive hover effects and animations</li></ul>
 
 # Cooming soon
-1. Sign in page.
+1. Sign in page. (availabe now)
 2. More shoping carts
 
 # Technologies Used
