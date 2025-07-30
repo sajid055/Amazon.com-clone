@@ -22,4 +22,4 @@ This is a front-end clone of the Amazon shopping website built for learning and 
 
 # live
 
-[Click here!](https://my-first-clone-project.netlify.app)
+[Click here!](https://first-project-clone.netlify.app)
