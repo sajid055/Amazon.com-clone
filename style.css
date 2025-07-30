@@ -22,7 +22,7 @@
 }
 
 #logo{
-     background-image: url("amazon_logo.png");
+     background-image: url("images/amazon_logo.png");
      background-size: cover;
      height: 50px;
      width: 100%;
@@ -158,8 +158,10 @@ a:hover{
 }
 
 /* Box4 */
-span{
+span, a{
     font-size: 0.7rem;
+    text-decoration: none;
+    color: #fafafa;
 }
 
 .nav-sec{
@@ -352,38 +354,38 @@ ul a{
 
 .glob1{
     border: 1px solid #cccccc;
-    height: 20px;
+    height: 28px;
     width: 110px;
     padding: 6px 18px 6px 8px;  
     margin: 5px ;
     border-radius: 3px;
     text-align: left;
-    font-size: 0.90rem;
+    font-size: 0.80rem;
     color: #dddddd;
     
 }
 
 .glob2{
     border: 1px solid #cccccc;
-    height: 20px;
-    width: 140px;
+    height: 28px;
+    width: 150px;
     padding: 6px 18px 6px 8px;
     margin: 5px;
     
     border-radius: 3px;
     text-align: left;
-    font-size: 0.90rem;
+    font-size: 0.80rem;
     color: #dddddd;
 }
 
 .glob3{border: 1px solid #cccccc;
-    height: 20px;
-    width: 130px;
+    height: 28px;
+    width: 120px;
     padding: 6px 18px 6px 8px;
     margin: 5px;
     border-radius: 3px;
     text-align: left;
-    font-size: 0.90rem;
+    font-size: 0.80rem;
     color: #dddddd;
     
     

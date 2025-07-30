@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+form{
+     padding-left: 20px;
+     
+}
+
+ 
+img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 100px;
+    height: 100px;
+    
+}
+
+.signin{
+    border: 1px solid rgb(206, 202, 202);
+    width: 350px;
+    height: 310px;
+    border-radius: 0.5rem;
+    margin: auto;
+    display: block;
+    box-sizing: border-box;
+    padding: 20px 26px;
+    position: relative;
+
+}
+
+h4{
+    font-weight: 10;
+    margin: 0px 0px 8px;
+    padding: 0px 0px 4px;
+    font-size: 18px;
+    color: #0f1111;
+
+}
+
+label{
+    font-weight: 600;
+    font-size: 13px;
+   
+
+}
+
+
+input{
+    border-radius: 3px;
+    width: 90%;
+    height: 25px;
+    
+} 
+
+button{
+    height: 30px;
+    width: 90%;
+    border-radius: 50px;
+    align-items: center;
+    background-color: yellow;
+    border: 0;
+    outline: 0;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: rgb(182, 243, 60);
+}
+
+p{
+    font-size: 12px !important;
+    margin: 14px 0px 14px;
+    line-height: 14px;
+
+}
+
+.new-ac{
+    /* border-top: 1px solid rgb(214, 207, 207); */
+    width: 90%;
+    margin-top: 25px;
+}
+
+.a-devider{
+    margin: 0px 0px 14px;
+}
+
+span{
+    margin-top: 25px;
+    font-weight: 550;
+    font-size: smaller;
+
+    
+}
+
+.ac a{
+    margin-top: 5px;
+    font-size: small;
+    text-decoration: none;
+    
+}
+
+.ac a:hover{
+    text-decoration: underline;
+}
+
+.b-devider{
+    border: 0.90px solid  rgb(203, 200, 200);
+    margin-top: 60px;
+}
+
+
+.spacing{
+    font-size: 13px;
+    margin: 40px;
+    text-align: center;
+}
+
+.foot{
+    text-decoration: none;
+    margin: 0px 0px 8px;
+    justify-content: space-evenly;
+    padding: 15px;
+}
+
+.foot:hover{
+    text-decoration: underline;
+}
+
+.f-root{
+    color: #595959;
+    font-weight: 400;
+    font-size: 12px !important;
+    line-height: 50px !important;   
+}
