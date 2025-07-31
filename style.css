@@ -131,7 +131,7 @@
   color: black;
 }
 
-.dropdown-content p{
+.dropdown-content span{
     color: #0f1111;
     text-decoration: none;
     font-weight: 600;
@@ -139,6 +139,16 @@
     padding-left: 10px;
     margin-block-start: 10px;
 }
+
+.learn-more{
+    color: #0f1111;
+    text-decoration: none;
+    font-weight: 600;
+    color: #475050;
+    padding-left: 10px;
+    margin-block-start: 10px;
+}   
+
 
 .a{
     color: #0f1111;
