@@ -9,13 +9,11 @@ This is a front-end clone of the Amazon shopping website built for learning and 
 <li> Navigation Bar with Amazon logo, Search bar, and Cart icon</li>
  <li>Product cards with images, prices, and ratings</li>
  <li>Footer section with multiple column links</li>
- <li>Interactive hover effects and animations</li>
  <li>And you can see tha amazon signin page</ul>
 
 # Technologies Used
 1. HTML
 2. CSS
-
 
 # live
 
