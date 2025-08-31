@@ -17,4 +17,4 @@ This is a front-end clone of the Amazon shopping website built for learning and 
 
 # live
 
-<!-- [Click here!](https://amazon-clone-ten-bice.vercel.app/) -->
+[Click here!](https://amazon-clone-sajid-projects.vercel.app)
