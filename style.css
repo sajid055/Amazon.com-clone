@@ -173,7 +173,9 @@ span, a{
     text-decoration: none;
     color: #fafafa;
 }
-
+span, a:hover{
+    text-decoration: none;
+}
 .nav-sec{
     font-size: 0.8rem;
     font-weight: 700;
@@ -186,11 +188,15 @@ span, a{
     color: white;
 }
 
-.nav-cart{
-    font-size: 0.8rem;
+.nav-cart a{
+    font-size: 0.9rem;
     font-weight: 700;
+    cursor: pointer;
+    text-decoration: none;
 }
-
+/* .nav-cart a:hover{
+    text-decoration: none;
+} */
 /* pannel */
 .pannel{
     height: 40px;
@@ -354,7 +360,7 @@ ul a{
 }
 
 .logo{
-    background-image: url("amazon_logo.png");
+    background-image: url("images/amazon_logo.png");
      background-size: cover;
      height: 50px;
      width: 100px;
