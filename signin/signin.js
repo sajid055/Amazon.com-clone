@@ -13,11 +13,18 @@ document.addEventListener("DOMContentLoaded", () => {
         const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
         if (mobileRegex.test(value) || emailRegex.test(value)) {
-            errorMsg.style.color = "green";
-            errorMsg.innerText = "";
+            // errorMsg.style.color = "green";
+            // errorMsg.innerText = "";
         } else {
-            errorMsg.style.color = "red";
-            errorMsg.innerText = "Invalid email address.";
+            // errorMsg.style.color = "red";
+            // errorMsg.innerText = "Invalid email address.";
+             if (/^\d+$/.test(value)) {
+                errorMsg.style.color = "red";
+                errorMsg.innerText = "Invalid mobile number.";
+            } else {
+                errorMsg.style.color = "red";
+                errorMsg.innerText = "Invalid email address.";
+            }
         }
     });
 });
