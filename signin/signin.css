@@ -5,7 +5,7 @@
 }
 
 form{
-     padding-left: 20px;
+     padding-left: 15px;
      
 }
 
@@ -38,7 +38,7 @@ img{
 h4{
     font-weight: 10;
     margin: 0px 0px 8px;
-    padding: 0px 0px 4px;
+    padding: 0px 0px 15px;
     font-size: 18px;
     color: #0f1111;
 
@@ -55,9 +55,14 @@ label{
 input{
     border-radius: 3px;
     width: 95%;
-    height: 25px;
-    
+    height: 30px;
+    border: 1px solid black;
+    box-shadow: inset 1px 1.5px 1px rgba(0,0,0,0.15);
 } 
+
+input:focus{
+    outline: 3px solid rgb(167, 230, 255);
+}
 
 
 button{
