@@ -23,6 +23,6 @@ document.addEventListener("DOMContentLoaded", () => {
                 errorMsg.style.color = "red";
                 errorMsg.innerText = "Invalid email address.";
             }
-        }
+        } 
     });
 });
