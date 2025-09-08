@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", () => {
         const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
         if (mobileRegex.test(value) || emailRegex.test(value)) {
-        } else {
+         } else {
             // errorMsg.style.color = "red";
             // errorMsg.innerText = "Invalid email address.";
              if (/^\d+$/.test(value)) {
